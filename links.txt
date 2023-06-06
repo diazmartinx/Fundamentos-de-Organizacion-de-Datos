@@ -1,0 +1,13 @@
+clases Practicas: https://drive.google.com/drive/folders/1mKzauS1xGxHrBkZ-ZY4Z_gLFjwaYRdAc
+
+
+ARCHIVOS:
+	1- https://drive.google.com/file/d/1oA0p4GuePBvb9my2kJ6VQgnktggqmiZY/view?usp=drive_link
+		titulo: "Archivos 1-Intro Arch.mkv"
+		(explicacion basica, muestra ejemplos de archivo binario y de texto, muestra un archivo .txt, explica como escribir los datos en el txt).
+
+	2- https://drive.google.com/file/d/17czDPz9gCJjI4VdAFqyHdTCGCUYzBD2e/view?usp=drive_link
+		titulo: "Clase 2-Maestro Detalle.mkv"
+		(Explica que es un archivo maestro y un detalle, detalla cosas a tener en cuenta (importante), actualizacion de 1 maestro y 1 detalle el detalle modifica al maestro
+		muestra ejemplo, ambos maestro y detalle son archivos binarios, toma 1 elemento del detalle y actualiza el maestro, usa SEEK y FILEPOS, muestra otro ejemplo ahora el
+		detalle contiene "codigos repetidos" es decir, hay que interar y acumular, explica procedimiento LEER

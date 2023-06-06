@@ -1,0 +1,39 @@
+1 1.0000000000000000E+000 MarcaA
+0 67 DescripcionA
+NombreA
+2 1.0000000000000000E+000 MarcaB
+4 67 DescripcionB
+NombreB
+3 1.0000000000000000E+000 MarcaC
+46 7 DescripcionC
+NombreC
+4 1.0000000000000000E+000 MarcaD
+4 67 DescripcionD
+NombreD
+5 1.0000000000000000E+000 MarcaE
+46 7 DescripcionE
+NombreE
+6 1.0000000000000000E+000 MarcaF
+46 7 DescripcionF
+NombreF
+7 1.0000000000000000E+000 MarcaG
+46 7 DescripcionG
+NombreG
+8 1.0000000000000000E+000 MarcaH
+4 67 DescripcionH
+NombreH
+9 1.0000000000000000E+000 MarcaI
+46 7 DescripcionI
+NombreI
+10 1.0000000000000000E+000 MarcaJ
+4 67 DescripcionJ
+NombreJ
+135 1.5000000000000000E+002 nuevo
+134 336 nuevo
+nuevo
+257 1.5000000000000000E+002 nuevo
+81 335 nuevo
+nuevo
+8 1.5000000000000000E+002 nuevo
+219 449 nuevo
+nuevo
